@@ -1,2 +1,2 @@
 # bootstrap-learning
-Project of learning and training of the Bootstrap.
+Project of learning and training with Bootstrap.
